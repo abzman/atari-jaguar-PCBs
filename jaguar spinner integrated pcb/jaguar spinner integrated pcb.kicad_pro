@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 3.2,
+          "height": 4.8,
+          "width": 4.8
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -55,7 +55,13 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "silk_over_copper|129055000|114020600|45484f82-420e-44d0-a58e-382bb939dac5|0554bea0-89b2-4e25-9ea3-4c73921c94cb",
+        "silk_over_copper|132755000|112690600|929a9b03-e99e-4b88-8e16-759f8c6b59a5|e1fe6230-75c5-4750-aaea-24a9b80589d8",
+        "silk_over_copper|137755000|112690600|929a9b03-e99e-4b88-8e16-759f8c6b59a5|c482f4f0-b441-4301-a9f1-c7f9e511d699",
+        "silk_over_copper|141455000|114020600|3bb9c3d4-9a6f-41ac-8d1e-92ed4fe334c0|2ea8fa6f-efc3-40fe-bcf9-05bfa46ead4f",
+        "silk_overlap|145991247|112569523|1564f9d7-5c19-4971-9911-24c7fe94de01|929a9b03-e99e-4b88-8e16-759f8c6b59a5"
+      ],
       "meta": {
         "version": 2
       },
@@ -120,7 +126,7 @@
       },
       "track_widths": [
         0.0,
-        0.7
+        0.5
       ],
       "via_dimensions": [
         {
@@ -347,7 +353,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "jaguar controller top pcb.kicad_pro",
+    "filename": "jaguar spinner integrated pcb.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -426,7 +432,7 @@
   },
   "sheets": [
     [
-      "839f6f3c-849b-4f4f-a126-7bd4cd635fe3",
+      "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
       ""
     ]
   ],

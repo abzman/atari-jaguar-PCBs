@@ -55,7 +55,24 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "clearance|19195000|17165000|ce46bb49-d869-4732-a076-97934e65e7fa|9c6e9dbc-a162-403e-8e5a-29d74c2a0b21",
+        "clearance|19195000|37105000|d4fffbb7-788f-4b07-aa57-4a4d4fff19d5|e2fe1992-b79d-4aab-8043-bae3bc53ee06",
+        "clearance|25515000|23485000|95a93ab5-c007-46a0-b62a-521353e1ed31|8ecd16d3-575b-478c-8942-60c809bcc481",
+        "clearance|5575000|23375000|b138a0d1-e21a-412a-a6fe-411069e4ee1d|d95519b7-70f1-4d4e-89cc-a2932c52ab33",
+        "silk_over_copper|100696106|27242175|b9f4bf0b-e2bb-4d60-918c-6fbf3d6297f6|49e5a259-781c-49fa-bf68-936964ea5734",
+        "silk_over_copper|100764974|27168971|82829ea0-ab6e-459e-b1b2-21eac3694bec|49e5a259-781c-49fa-bf68-936964ea5734",
+        "silk_over_copper|112326106|14172175|bf572c68-2bd4-4623-bd04-135d85352814|758828b3-b2d6-4d01-bf4b-dfa8b18febe1",
+        "silk_over_copper|112394974|14098971|d4bc79b1-7c24-48db-8da5-f224480a402c|758828b3-b2d6-4d01-bf4b-dfa8b18febe1",
+        "silk_over_copper|51788200|9580000|deb8463e-4a9c-49a2-984f-0a2f60aff5c9|46222ce3-9282-4e4e-8079-873767434a8c",
+        "silk_over_copper|64188200|9580000|50c8fc14-3b6a-42d4-a959-9a8a649ea885|b57d2b82-053b-438a-90be-70298e28c995",
+        "silk_over_copper|90646106|41632175|bd80a938-0c8c-47fc-9288-d3f24f0fe140|58e1f034-d9b4-447f-8d41-b377572fae83",
+        "silk_over_copper|90714974|41558971|7bd0701e-1d48-4fe9-85c7-623cfc20a7d5|58e1f034-d9b4-447f-8d41-b377572fae83",
+        "silk_overlap|51788200|10640000|deb8463e-4a9c-49a2-984f-0a2f60aff5c9|3dc27e5b-0a95-4abe-9018-7692fb0cce68",
+        "silk_overlap|51788200|8520000|deb8463e-4a9c-49a2-984f-0a2f60aff5c9|884ba2b3-9eb1-492c-983a-53e9a72e9560",
+        "silk_overlap|64188200|10640000|3dc27e5b-0a95-4abe-9018-7692fb0cce68|50c8fc14-3b6a-42d4-a959-9a8a649ea885",
+        "silk_overlap|64188200|8520000|884ba2b3-9eb1-492c-983a-53e9a72e9560|50c8fc14-3b6a-42d4-a959-9a8a649ea885"
+      ],
       "meta": {
         "version": 2
       },
